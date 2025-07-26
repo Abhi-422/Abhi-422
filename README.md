@@ -28,7 +28,7 @@
 - **Languages**: Python, JavaScript  
 - **Backend**: Node.js, Express.js  
 - **Frontend**: React.js, HTML, CSS  
-- **Data Analysis & ML**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Data Analysis & ML**: Pandas, NumPy, Matplotlib,Scikit-learn  
 - **Databases**: SQL, MongoDB  
 - **Tools**: Git, GitHub, VS Code, Postman, Jupyter, Google Colab, Thunder Client  
 
