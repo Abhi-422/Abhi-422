@@ -53,12 +53,12 @@
 📫 **Contact Me**
 
 - ✉️ abhishekpatange422@gmail.com
-- 📍 Beed, Maharashtra, India
+- 📍 Maharashtra, India
 - 📞 +91 8459724643
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abhishek422/) 
 - 🧑‍💻 [Portfolio](https://your-portfolio.com/)
 
----
+<!---
 
 📊 **GitHub Stats**
 
@@ -73,6 +73,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpatange&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
----
+--->
 
 🔗 _Let’s collaborate on open-source and innovative AI/ML or Full-Stack projects!_
