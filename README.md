@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abhishek Patange</h1>
-<h3 align="center">Python Developer | Machine Learning Enthusiast | Data Science Learner | MERN Stack Developer</h3>
+<h3 align="center">MERN Stack Developer | Python Developer | Machine Learning Enthusiast | Data Science Learner </h3>
 
 ---
 
@@ -18,7 +18,7 @@
 - **Lab Instructor** – Saraswati Education Society (Sep 2024 – May 2025)  
   _Conducted lab sessions in Python, Web Dev, DS, ML. Mentored students and graded assignments._
 
-- **Python Intern** – Digital Documentation Systems Pvt Ltd (Jul – Dec 2023)  
+- **Python Intern** – Digital Documentation Systems Pvt Ltd (Jul 2023 – Dec 2023)  
   _Extracted data from PDFs using PdfPlumber, Pandas, Regex. Collaborated remotely on code for bank statements._
 
 ---
