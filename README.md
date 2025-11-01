@@ -56,7 +56,6 @@
 - 📍 Maharashtra, India
 - 📞 +91 8459724643
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abhishek422/) 
-- 🧑‍💻 [Portfolio](https://your-portfolio.com/)
 
 <!---
 
