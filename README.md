@@ -5,10 +5,10 @@
 
 🌱 **About Me**
 
+- 🌐 skilled in full-stack development using the MERN stack (MongoDB, Express.js, React, Node.js)  
 - 🤖 Machine Learning enthusiast passionate about building intelligent systems and solving real-world problems  
 - 📊 Learning Data Science fundamentals to support and enhance ML workflows  
 - 🧠 Hands-on experience with Python, Scikit-learn, Pandas, and OpenCV for ML and computer vision projects  
-- 🌐 Also skilled in full-stack development using the MERN stack (MongoDB, Express.js, React, Node.js)  
 - 🎓 B.E. in Information Technology, University of Mumbai — Graduated in 2024  
 
 ---
@@ -29,24 +29,34 @@
 - **Backend**: Node.js, Express.js  
 - **Frontend**: React.js, HTML, CSS  
 - **Data Analysis & ML**: Pandas, NumPy, Matplotlib,Scikit-learn  
-- **Databases**: SQL, MongoDB  
+- **Databases**: SQL, MongoDB 
 - **Tools**: Git, GitHub, VS Code, Postman, Jupyter, Google Colab, Thunder Client  
 
 ---
 
 🚀 **Projects**
 
-- 🏡 **House Price Prediction**  
-  _Regression model using Linear Regression & Random Forest._  
-  _Stack: Python, Scikit-learn, Pandas, Matplotlib_
-
-- 😎 **Face Analysis App**  
-  _Live face recognition, emotion detection, age & gender prediction._  
-  _Stack: Python, OpenCV, Streamlit, DeepFace_
-
 - 💬 **MERN Chat App**  
-  _Real-time chat app with JWT auth and Socket.IO._  
+  _Architected and implemented a full-stack, real-time chat application with secure JWT authentication and Socket.IO for live messaging._  
   _Stack: MongoDB, Express.js, React, Node.js, Tailwind CSS_
+
+☕ **Coffee Heaven**
+  _Developed a single-page frontend application for a coffee shop using React, focusing on UI implementation and continuous deployment._
+  _Stack: React.js, JavaScript, HTML, CSS_
+
+- 🛠️ **Tools Compilation**
+  _A collection of utility applications demonstrating core React concepts and integrating various third-party APIs (Weather, Currency, Movies, etc.)._
+  _Stack: React.js, JavaScript, HTML, CSS, APIs_
+
+- 🏡 **House Price Prediction**  
+  _Engineered a regression model in Python to predict house prices using feature engineering and training algorithms like Linear Regression and Random Forest._  
+  _Stack: Python, Scikit-learn, Pandas, Matplotlib_
+  
+<!--
+- 😎 **Face Analysis App**  
+  _Real-time face analysis system capable of recognition, emotion, age, and gender detection using computer vision techniques._  
+  _Stack: Python, OpenCV, Streamlit, DeepFace_
+  -->
   
 ---
 
@@ -57,8 +67,7 @@
 - 📞 +91 8459724643
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abhishek422/) 
 
-<!---
-
+<!--
 📊 **GitHub Stats**
 
 <p align="center">
@@ -71,7 +80,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpatange&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
-
---->
+-->
 
 🔗 _Let’s collaborate on open-source and innovative AI/ML or Full-Stack projects!_
