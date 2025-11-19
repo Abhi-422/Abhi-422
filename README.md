@@ -37,20 +37,20 @@
 🚀 **Projects**
 
 - 💬 **MERN Chat App**  
-  _Architected and implemented a full-stack, real-time chat application with secure JWT authentication and Socket.IO for live messaging._  
-  _Stack: MongoDB, Express.js, React, Node.js, Tailwind CSS_
+  - _Architected and implemented a full-stack, real-time chat application with secure JWT authentication and Socket.IO for live messaging._  
+  - _Stack: MongoDB, Express.js, React, Node.js, Tailwind CSS_
 
-☕ **Coffee Heaven**
-  _Developed a single-page frontend application for a coffee shop using React, focusing on UI implementation and continuous deployment._
-  _Stack: React.js, JavaScript, HTML, CSS_
+- ☕ **Coffee Heaven**
+  - _Developed a single-page frontend application for a coffee shop using React, focusing on UI implementation and continuous deployment._
+  - _Stack: React.js, JavaScript, HTML, CSS_
 
 - 🛠️ **Tools Compilation**
-  _A collection of utility applications demonstrating core React concepts and integrating various third-party APIs (Weather, Currency, Movies, etc.)._
-  _Stack: React.js, JavaScript, HTML, CSS, APIs_
+  - _A collection of utility applications demonstrating core React concepts and integrating various third-party APIs (Weather, Currency, Movies, etc.)._
+  - _Stack: React.js, JavaScript, HTML, CSS, APIs_
 
 - 🏡 **House Price Prediction**  
-  _Engineered a regression model in Python to predict house prices using feature engineering and training algorithms like Linear Regression and Random Forest._  
-  _Stack: Python, Scikit-learn, Pandas, Matplotlib_
+  - _Engineered a regression model in Python to predict house prices using feature engineering and training algorithms like Linear Regression and Random Forest._  
+  - _Stack: Python, Scikit-learn, Pandas, Matplotlib_
   
 <!--
 - 😎 **Face Analysis App**  
